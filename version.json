@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "1.0.2",
-  "updateLog": "1. 這是全新的更新日誌。\n2.修復了工具頁面的 bug。",
+  "updateLog": "1. 这是全新的更新日志。\n2.修复了部分已知bug。",
   "apkUrl": "https://github.com/sindywc/qianshou-shuguo-tou-extension/releases/download/v1.0.2/default.apk"
 }
